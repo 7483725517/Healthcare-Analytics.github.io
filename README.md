@@ -1,1 +1,2 @@
 # Healthcare-Analytics.github.io
+The goal of this work is to study hospital emergency room (ER) admissions to predict ER overcrowding, to identify high-risk patients and to propose advice for managing patient flow in a timely outcome. An end-to-end pipeline that combines data cleaning, storage, visualization, and predictive analysis, it is designed to help clinical and administrative staff make data-driven decisions about hospital operations.
